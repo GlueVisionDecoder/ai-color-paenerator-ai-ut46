@@ -1,4 +1,4 @@
-# 
+# Profesional AI Color Palette Generator extensiones. Con aprendizaje por refuerzo y reconocimiento de voz — optimizado para el máximo rendimiento.
 
 
 
